@@ -36,7 +36,7 @@ javaCopypublic class Main {
 public static void main(String[] args) {
 LibraryManagementSystem library = new LibraryManagementSystem();
 
-        // Adding a book
+        Adding a book
         Book book = new Book("9780061120084", "To Kill a Mockingbird", "Harper Lee", 1960);
         library.addBook(book);
 
